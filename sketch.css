@@ -1,0 +1,43 @@
+button{	
+	width: 200px;
+	height: 30px;
+}
+#form{	
+	height: 30px;
+	width: 200px;
+	float: top;
+}
+
+#squaresForm{
+	float:right;
+}
+
+#clearButton{
+	position: absolute;
+	text-align: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+#container{	
+	display: block;		
+	margin-left: 400px;
+	margin-top: 20px;
+	height: 800px;
+	width: 800px;	
+	font-size: 0px;	
+}
+
+.grid{
+	margin-right: 10px;
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	border: 2px solid black;
+}
+
+#colors{
+	display: inline-block;
+}
